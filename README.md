@@ -1,6 +1,9 @@
-### Hi there 👋, my name is Nipuna
-#### I am GitHub Readme Generator's creator
-I made this project just for fun 
+### Hi there 👋, my name is Nipuna Ruwan
+#### I am web developer and developing system using java fx with layerd architecture
+and developing web side using Html ,javascript
+and css
+I am working fiver & FreeLancer
+
 
 Skills:  javafx/ JS / HTML / CSS
 
