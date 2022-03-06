@@ -4,7 +4,7 @@ and developing web side using Html ,javascript
 and css
 I am working fiver & FreeLancer
 
-
+<img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Mishel+Perera...!;I'm+Full+Stack+Software+Engineeer.;And+I+am+FreeLancer.;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering)](https://git.io/typing-svg)">
 <img src="C:\Users\nipun\OneDrive\Pictures\nion production photo" target="_blank">
 
 Skills:  javafx/ JS / HTML / CSS
