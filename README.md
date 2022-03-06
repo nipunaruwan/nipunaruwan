@@ -5,6 +5,8 @@ and css
 I am working fiver & FreeLancer
 
 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank">
+
 Skills:  javafx/ JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
