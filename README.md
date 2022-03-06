@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Nipuna Ruwan
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF192E&lines=I+am+Nipuna+Ruwan+;+I+am+full+stack+Developer+;I+am+free+lancer+in+softhub)](https://git.io/typing-svg)
 #### I am web developer and developing system using java fx with layerd architecture
 and developing web side using Html ,javascript
 and css
 I am working fiver & FreeLancer
 
-<img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Nipuna Ruwan...!;I'm+Full+Stack+Software+Engineeer.;And+I+am+FreeLancer.;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;Nion production actor& Director)](https://git.io/typing-svg)">
-<img src="C:\Users\nipun\OneDrive\Pictures\nion production photo" target="_blank">
+
 
 Skills:  javafx/ JS / HTML / CSS
 
