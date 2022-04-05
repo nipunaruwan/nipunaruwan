@@ -11,8 +11,10 @@ I am working fiver & FreeLancer🙌
 Skills:  javafx/ JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+![WhatsApp Image 2022-04-05 at 11 55 05 AM](https://user-images.githubusercontent.com/92322715/161691987-59e13457-5208-4e28-aa17-b07d25efd4e2.jpeg)
 
-![Uploading 1636439449496-01.jpg…]![WIN_20220109_10_18_29_Pro](https://user-images.githubusercontent.com/92322715/161690988-3345abae-930d-45b3-89d5-a29e18563d48.jpg)
+
+
 
 
 
