@@ -4,13 +4,15 @@
 and developing web side using 💻Html ,javascrip
 and css💻
 I am working fiver & FreeLancer🙌
-![Uploading 1636439449496-01.jpg…]()
+
 
 
 
 Skills:  javafx/ JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+
+![Uploading 1636439449496-01.jpg…]()
 
 ###  Programming Lanuages
 <div>
