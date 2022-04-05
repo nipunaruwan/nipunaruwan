@@ -12,7 +12,7 @@ Skills:  javafx/ JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
-![Uploading 1636439449496-01.jpg…]()
+![Uploading 1636439449496-01.jpg…]
 
 ###  Programming Lanuages
 <div>
