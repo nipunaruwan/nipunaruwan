@@ -29,7 +29,9 @@ Skills: FontEnd= javafx/ JS / HTML / CSS/reat<br>
 <p align="left">
 <a href="https://linkedin.com/in/nipunaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipunaruwan" height="30" width="40" /></a>
 <a href="https://fb.com/nipunaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nipunaruwan" height="30" width="40" /></a>
+<a href="https://instagram.com/nipuna_the_silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nipuna_the_silva" height="30" width="40" /></a>
 </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipunaruwan" alt="nipunaruwan" /></a> </p>
 
