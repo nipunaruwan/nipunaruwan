@@ -1,9 +1,9 @@
-   ### Hi there 👋, my name is Nipuna Ruwan
+ <h1 align="center">Hi 👋, I'm Nipuna Ruwan kalpa</h1>
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232BFF3A&lines=%F0%9F%99%8CI+am+Nipuna+Ruwan+%F0%9F%99%8C;+I+am+full+stack+Developer+;I+am+free+lancer+in+softhub)](https://git.io/typing-svg)
-#### 🙌I am web developer and developing system using java fx with layerd architecture
-and developing web side using 💻Html ,javascrip
+<h3 align="center">#### 🙌I am web developer and developing system using java fx with layerd architectureand developing web side using 💻Html ,javascrip
 and css💻
-I am working fiver & FreeLancer🙌
+I am working fiver & FreeLancer🙌</h3>
+
 
 
 (img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/92322715/178133533-054eff1a-005e-49a0-afac-bc9d4dbfd6f8.gif")                                               
