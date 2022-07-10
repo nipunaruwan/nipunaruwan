@@ -8,7 +8,7 @@ I am working fiver & FreeLancer🙌</h3>
 
 
 
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/92322715/178133533-054eff1a-005e-49a0-afac-bc9d4dbfd6f8.gif")                                               
+                                            
 
 Skills: FontEnd= javafx/ JS / HTML / CSS/reat<br>
         BackEnd= java/ JS / javafx / Spring/SpringBoot
