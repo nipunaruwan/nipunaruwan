@@ -8,7 +8,7 @@ I am working fiver & FreeLancer🙌
 
 
 
-Skills: FontEnd= javafx/ JS / HTML / CSS/reat
+Skills: FontEnd= javafx/ JS / HTML / CSS/reat<br>
         BackEnd= java/ JS / javafx / Spring/SpringBoot
 
 - 🔭 I’m currently working on this page. 
