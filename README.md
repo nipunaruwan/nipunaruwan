@@ -7,7 +7,7 @@ and css💻
 I am working fiver & FreeLancer🙌</h3>
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nipunaruwan&label=Profile%20views&color=0e75b6&style=flat" alt="nipunaruwan" /> </p>
                                             
 
 Skills: FontEnd= javafx/ JS / HTML / CSS/reat<br>
