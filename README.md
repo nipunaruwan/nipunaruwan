@@ -6,7 +6,7 @@
 and css💻
 I am working fiver & FreeLancer🙌</h3>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipunaruwan" alt="nipunaruwan" /></a> </p>
 
                                             
 
@@ -33,7 +33,7 @@ Skills: FontEnd= javafx/ JS / HTML / CSS/reat<br>
 <a href="https://fb.com/nipunaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nipunaruwan" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipunaruwan&show_icons=true&locale=en&layout=compact" alt="nipunaruwan" /></p>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunaruwan)](https://github.com/anuraghazra/github-readme-stats)
