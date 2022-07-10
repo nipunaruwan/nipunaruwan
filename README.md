@@ -1,5 +1,5 @@
   ![Dh5P](https://user-images.githubusercontent.com/92322715/178133945-2575cc3f-4535-4500-b945-eb93115b9f5e.gif)
-<center>### Hi there 👋, my name is Nipuna Ruwan</center>
+                                        ### Hi there 👋, my name is Nipuna Ruwan
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232BFF3A&lines=%F0%9F%99%8CI+am+Nipuna+Ruwan+%F0%9F%99%8C;+I+am+full+stack+Developer+;I+am+free+lancer+in+softhub)](https://git.io/typing-svg)
 #### 🙌I am web developer and developing system using java fx with layerd architecture
 and developing web side using 💻Html ,javascrip
