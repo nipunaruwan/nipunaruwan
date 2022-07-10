@@ -5,13 +5,12 @@ and developing web side using 💻Html ,javascrip
 and css💻
 I am working fiver & FreeLancer🙌
 
- <img src=" ![H9zM](https://user-images.githubusercontent.com/92322715/178133533-054eff1a-005e-49a0-afac-bc9d4dbfd6f8.gif)">
-
 
 Skills: FontEnd= javafx/ JS / HTML / CSS/reat<br>
         BackEnd= java/ JS / javafx / Spring/SpringBoot
 
 - 🔭 I’m currently working on this page. 
+- ![H9zM](https://user-images.githubusercontent.com/92322715/178133533-054eff1a-005e-49a0-afac-bc9d4dbfd6f8.gif)
 ![WhatsApp Image 2022-04-05 at 11 55 05 AM](https://user-images.githubusercontent.com/92322715/161691987-59e13457-5208-4e28-aa17-b07d25efd4e2.jpeg)
 
 
