@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Nipuna Ruwan kalpa</h1>
  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232BFF3A&lines=%F0%9F%99%8CI+am+Nipuna+Ruwan+%F0%9F%99%8C;+I+am+full+stack+Developer+;I+am+free+lancer+in+softhub)](https://git.io/typing-svg)
+<h1 align="center">  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232BFF3A&lines=%F0%9F%99%8CI+am+Nipuna+Ruwan+%F0%9F%99%8C;+I+am+full+stack+Developer+;I+am+free+lancer+in+softhub)](https://git.io/typing-svg)</h1>
   
 <h3 align="center"> 🙌I am web developer and developing system using java fx with layerd architectureand developing web side using 💻Html ,javascrip
 and css💻
@@ -12,6 +12,7 @@ I am working fiver & FreeLancer🙌</h3>
 
 
 - 🔭 I’m currently working on this page. 
+
 ![WhatsApp Image 2022-04-05 at 11 55 05 AM](https://user-images.githubusercontent.com/92322715/161691987-59e13457-5208-4e28-aa17-b07d25efd4e2.jpeg)
 
 
