@@ -9,7 +9,10 @@
 
 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 studing IJSE. 
+- went wadduwa central college.
+-live in kaluthara.
+
 
 ![WhatsApp Image 2022-04-05 at 11 55 05 AM](https://user-images.githubusercontent.com/92322715/161691987-59e13457-5208-4e28-aa17-b07d25efd4e2.jpeg)
 
