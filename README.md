@@ -9,8 +9,13 @@
 
 
 
-- 🔭 studing IJSE. 
-- went wadduwa central college.
+- 🌱 I’m currently learning **ijse**
+
+- 👨‍💻 All of my projects are available at [https://github.com/nipunaruwan](https://github.com/nipunaruwan)
+
+- 💬 Ask me about **0763139310**
+
+- 📫 How to reach me **NipunaKalpa1234@gmail.com**
 
 
 
