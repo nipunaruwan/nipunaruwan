@@ -10,7 +10,7 @@
 
 
 - 🔭 studing IJSE. 
-- went wadduwa central college.
+- went wadduwa central college.<br>
 -live in kaluthara.
 
 
