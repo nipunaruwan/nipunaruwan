@@ -10,8 +10,8 @@
 
 
 - 🔭 studing IJSE. 
-- went wadduwa central college.<br>
--live in kaluthara.
+- went wadduwa central college.
+
 
 
 ![WhatsApp Image 2022-04-05 at 11 55 05 AM](https://user-images.githubusercontent.com/92322715/161691987-59e13457-5208-4e28-aa17-b07d25efd4e2.jpeg)
