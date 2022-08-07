@@ -36,7 +36,8 @@
 <a href="https://linkedin.com/in/nipunaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipunaruwan" height="30" width="40" /></a>
 <a href="https://fb.com/nipunaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nipunaruwan" height="30" width="40" /></a>
 <a href="https://instagram.com/nipuna_the_silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nipuna_the_silva" height="30" width="40" /></a>
-<a href="https://instagram.com/nipuna_the_silva" target="blank"><img align="center" src="icons8-whatsapp-48.png"
+<a href="https://instagram.com/nipuna_the_silva" target="blank"><img align="center" src="![icons8-whatsapp-48](https://user-images.githubusercontent.com/92322715/183283566-be53de0f-6846-4c91-97ed-8be619644f4a.png)
+"
  alt="nipuna_the_silva" height="30" width="40" /></a>
 </p>
 
