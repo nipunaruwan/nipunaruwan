@@ -81,7 +81,7 @@
 
 <br/>  
 
-
+![Snake animation](https://github.com/nipunaruwan/nipunaruwan/blob/red-alpha/github-contribution-grid-snake.svg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nipunaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipunaruwan" height="30" width="40" /></a>
@@ -108,4 +108,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/nipunaruwan)  
 
-![Snake animation](https://github.com/nipunaruwan/nipunaruwan/blob/red-alpha/github-contribution-grid-snake.svg)
+
