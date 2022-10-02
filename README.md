@@ -107,3 +107,5 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nipunaruwan)  
 
 ![Profile views](https://gpvc.arturio.dev/nipunaruwan)  
+
+![Snake animation](https://github.com/nipunaruwan/nipunaruwan/blob/red-alpha/github-contribution-grid-snake.svg)
