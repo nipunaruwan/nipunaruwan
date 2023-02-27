@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **0763139310**
 
-- 📫 How to reach me **NipunaKalpa1234@gmail.com**
+- 📫 How to reach me **nipunaKalpa1234@gmail.com**
  
      ![H9zM](https://user-images.githubusercontent.com/92322715/178133533-054eff1a-005e-49a0-afac-bc9d4dbfd6f8.gif)
 
