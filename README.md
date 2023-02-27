@@ -1,7 +1,6 @@
  <h1 align="center">Hi 👋, I'm Nipuna Ruwan kalpa</h1>
  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7CF744&width=435&lines=Hey+!%F0%9F%96%90+I'm+NipunaRuwan....++;%F0%9F%92%BB+I'm+fullstackDeveloper%F0%9F%92%BB;work+in+my+own+company+%23codelab+and+Codewave+)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7CF744&width=435&lines=Hey+!%F0%9F%96%90+I'm+NipunaRuwan....++;%F0%9F%92%BB+I'm+fullstackDeveloper%F0%9F%92%BB;work+in+my+own+company+%23codelab++;and+codewave)](https://git.io/typing-svg)
 
                                             
 
