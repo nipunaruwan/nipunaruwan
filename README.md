@@ -77,7 +77,10 @@
 
 <br/>  
 
-![Snake animation](https://github.com/nipunaruwan/nipunaruwan/blob/red-alpha/github-contribution-grid-snake.svg)
+
+
+![Snake Eating My Name](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
